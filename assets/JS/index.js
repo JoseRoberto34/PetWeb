@@ -7,7 +7,7 @@ for(const element of toggle){
 }
 
 
-//Deixr o Header fixo quano rolar a scroll
+//Deixar o Header fixo quando rolar a scroll
 
 const header = document.querySelector('#header');
 window.addEventListener('scroll', function () {
